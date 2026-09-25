@@ -1,1 +1,1 @@
-This repository contains the classis "Hello World" program, written in c
+This repository contains the classic "Hello World" program, written in c
